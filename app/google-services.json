@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815182233728",
+    "project_id": "jetareader-7158d",
+    "storage_bucket": "jetareader-7158d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815182233728:android:91c6670a20b802b9322665",
+        "android_client_info": {
+          "package_name": "com.eslamaped.jetareader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yPAnPS1X0A2d33VbwX1aIjUyqPKJ1pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
